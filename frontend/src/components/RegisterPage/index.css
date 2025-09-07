@@ -1,0 +1,9 @@
+/* Success box */
+.success-box {
+  background: #e6f9e6;
+  color: #2e7d32;
+  padding: 0.6rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
